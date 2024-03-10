@@ -1,5 +1,3 @@
-![maxresdefault](https://github.com/zeyelias/Nezur-External/assets/162912844/157bd4ff-9727-4d46-88ce-771aa24f93a7)
-
 # 📸Screenshots:
 
 ![image](https://github.com/zeyelias/Nezur-External/assets/162912844/097b54c4-efb0-4033-a069-a954410327ea)
